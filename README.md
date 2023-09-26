@@ -1,5 +1,7 @@
 # Web-Mapping-Curriculum
 
+Student: Kee Moon Jang, keejang@mit.edu
+
 Instructor: Dan Swick, dan@mapbox.com
 <br> TA: Megan Danielson, megan.danielson@mapbox.com
 <br>Office Hours: By appointment only 
